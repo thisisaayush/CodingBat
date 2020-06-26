@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program returns true value if any array has element 2 or 3.
 package Array1;
 public class B3Has23 {
     public static boolean has23(int[] nums){
