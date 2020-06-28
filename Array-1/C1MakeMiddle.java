@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This progam has an array of even length. It will return new array of length 2, whose elements are the middle elements of previous array.
 package Array1;
 public class C1MakeMiddle {
     public int[] makeMiddle(int[] nums) {
