@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has 2 arrays of any length. Return how many of the arrays have 1 as their first element.
 package Array1;
 public class B8Start1 {
     public int start1(int[] a, int[] b) {
