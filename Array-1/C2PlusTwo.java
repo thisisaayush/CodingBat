@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has 2 int arrays, each length 2, return a new array length 4 containing all their elements.
 package Array1;
 public class C2PlusTwo {
     public int[] plusTwo(int[] a, int[] b) {
