@@ -1,5 +1,7 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has an array of ints of odd length, return a new array length 3 containing
+//the elements from the middle of the array. The array length will be at least 3.
 package Array1;
 public class C4MidThree {
     public int[] midThree(int[] nums) {
