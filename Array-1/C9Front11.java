@@ -1,5 +1,7 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has 2 int arrays, a and b, of any length, return a new array with the first 
+//element of each array. If either array is length 0, ignore that array.
 package Array1;
 public class C9Front11 {
     public int[] front11(int[] a, int[] b) {
