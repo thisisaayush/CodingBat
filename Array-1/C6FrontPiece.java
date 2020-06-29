@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has an int array of any length, return a new array of its first 2 elements. If the array is smaller than length 2, use whatever elements are present.
 package Array1;
 public class C6FrontPiece {
     public int[] frontPiece(int[] nums) {
