@@ -1,5 +1,7 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program has an array of ints of odd length, look at the first, last, and middle values 
+//in the array and return the largest. The array length will be a least 1.
 package Array1;
 public class C5MaxTriple {
     public int maxTriple(int[] nums) {
