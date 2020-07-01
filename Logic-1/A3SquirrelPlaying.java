@@ -1,5 +1,10 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+/*
+The squirrels in Palo Alto spend most of the day playing. In particular, they play if the temperature is between
+60 and 90 (inclusive). Unless it is summer, then the upper limit is 100 instead of 90. Given an int temperature and a boolean isSummer,
+return true if the squirrels play and false otherwise.
+*/
 package Logic1;
 public class A3SquirrelPlaying {
     public boolean squirrelPlay(int temp, boolean isSummer) {
