@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program is about 2 int values greater than 0, which returns whichever value is nearest to 21 without going over. Return 0 if they both go over.
 package Logic2;
 public class A8BlackJack {
     public int blackjack(int a, int b) {
