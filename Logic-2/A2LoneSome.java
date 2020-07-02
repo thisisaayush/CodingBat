@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//This program is about 3 int values, a b c which returns their sum. However, if one of the values is the same as another of the values, it does not count towards the sum.
 package Logic2;
 public class A2LoneSome {
     public int loneSum(int a, int b, int c) {
