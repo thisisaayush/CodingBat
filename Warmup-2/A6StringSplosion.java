@@ -1,5 +1,9 @@
 //Author: Aayush Shahi Thakuri
 //University: Minnesota State University, Mankato
+//Given a non-empty string like "Code" return a string like "CCoCodCode".
+//stringSplosion("Code") → "CCoCodCode"
+//stringSplosion("abc") → "aababc"
+
 package WarmUp2;
 public class A6StringSplosion {
     public static String stringSplosion(String str){
