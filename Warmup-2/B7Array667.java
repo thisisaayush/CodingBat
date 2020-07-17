@@ -1,5 +1,9 @@
 //Author: Aayush Shahi Thakuri
 //University: Minnesota State University, Mankato
+//This program has  an array of ints, return the number of times that two 6's are next 
+//to each other in the array. Also count instances where the second "6" is actually a 7. For instance:
+//array667([6, 6, 2]) → 1
+//array667([6, 6, 2, 6]) → 1
 package WarmUp2;
 public class B7Array667 {
     public static int array667(int[]nums){
