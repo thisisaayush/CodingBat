@@ -14,7 +14,8 @@ public class A2_Big_Difference {
             {
                 max = array[i];
             }
-            if(array[i] < min)//
+            if(array[i] < min)//This if statement is used to find the minimum int element from the given array. You can't use if else statement. As it won't be executed if the 
+                //if statement above to find maximum element is true. So, we use if statement again to find minimum element.
             {
                 min = array[i];
             }
