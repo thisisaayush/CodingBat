@@ -1,5 +1,6 @@
 package Array2;
-
+//This programs returns the sum of the numbers in the array, returning 0 for an empty array. 
+//Except the number 13 is very unlucky, so it does not count and numbers that come immediately after a 13 also do not count.
 public class A4_Sum13 {
     public static void main(String[] args) {
         int array[] = {1,2,3,4,5,6,7,8,9};
