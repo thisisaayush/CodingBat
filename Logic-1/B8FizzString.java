@@ -1,5 +1,9 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+/*
+The program has a string str, if the string starts with "f" return "Fizz". If the string ends with "b" return "Buzz". 
+If both the "f" and "b" conditions are true, return "FizzBuzz". In all other cases, return the string unchanged.
+*/
 package Logic1;
 public class B8FizzString {
     public String fizzString(String str) {
