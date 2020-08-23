@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//The program has three ints, a b c, return true if one of them is 10 or more less than one of the others.
 package Logic1;
 public class C5LessBy10 {
     public boolean lessBy10(int a, int b, int c) {
