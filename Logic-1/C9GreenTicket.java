@@ -1,5 +1,9 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//The program has a green lottery ticket, with ints a, b, and c on it.
+//If the numbers are all different from each other, the result is 0. 
+//If all of the numbers are the same, the result is 20. If two of the
+//numbers are the same, the result is 10.
 package Logic1;
 public class C9GreenTicket {
     public int greenTicket(int a, int b, int c) {
