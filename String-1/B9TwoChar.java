@@ -1,5 +1,6 @@
 //Author: Aayush Shahi Thakuri
 //Universtiy: Minnesota State University, Mankato
+//The program 
 package String1;
 public class B9TwoChar {
     public static String twoChar(String str, int index){
